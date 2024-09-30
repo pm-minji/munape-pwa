@@ -1,0 +1,26 @@
+{
+  "name": "무나페",
+  "short_name": "무나페",
+  "description": "무나페 웹사이트",
+  "start_url": "/home",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://cdn.imweb.me/thumbnail/20240925/5a263f2432e43.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.imweb.me/thumbnail/20240925/c9d565dcc5b31.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.imweb.me/thumbnail/20240925/67872cc2d38ee.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}
